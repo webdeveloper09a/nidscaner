@@ -1,2 +1,3 @@
+language: python
 runtime: python
 entrypoint: python bot.py
