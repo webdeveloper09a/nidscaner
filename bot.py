@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 
 # === CONFIG ===
 TOKEN = '7708512334:AAHltdbTA632hHy2E1gQ5F4H4o-MDVGboH4'
-START_NID = 4355878697
+START_NID = 4367681722
 END_NID = 4969998525  # use a smaller range for testing
 API_URL = "https://learn.aakashitutor.com/api/getquizfromid?nid="
 BATCH_SIZE = 400 # control how many NIDs are processed in parallel
